@@ -1,6 +1,6 @@
 export interface ParkingState {
-    slot_sm: number
-    slot_med: number
-    slot_big: number
+    small_slots: number
+    medium_slots: number
+    big_slots: number
 }
 

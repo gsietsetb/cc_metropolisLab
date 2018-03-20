@@ -1,7 +1,12 @@
 export interface Car {
-    id: string
-    latitude: number
-    longitude: number
-    name: string
-    timezone: string
+    id: number
+    type: string
+    entry_time: Date
+    stay_time: number
 }
+export interface CarSize {
+    small: "small"
+    medium: "medium"
+    big: "big"
+}
+

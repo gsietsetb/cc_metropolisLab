@@ -1,0 +1,58 @@
+{
+  "parking_info" : {
+    "small_slots" : 2,
+    "medium_slots" : 2,
+    "big_slots" : 1
+  },
+  "daily_cars" : [
+    {
+      "id" : 1,
+      "type" : "small",
+      "entry_time" : "8:15",
+      "stay_time" : 120
+    },
+    {
+      "id" : 2,
+      "type" : "small",
+      "entry_time" : "8:16",
+      "stay_time" : 120
+    },
+    {
+      "id" : 3,
+      "type" : "small",
+      "entry_time" : "8:17",
+      "stay_time" : 120
+    },
+    {
+      "id" : 4,
+      "type" : "small",
+      "entry_time" : "8:17",
+      "stay_time" : 120
+    },
+    {
+      "id" : 5,
+      "type" : "small",
+      "entry_time" : "8:19",
+      "stay_time" : 240
+    },
+    {
+      "id" : 6,
+      "type" : "small",
+      "entry_time" : "8:19",
+      "stay_time" : 120
+    },
+    {
+      "id" : 7,
+      "type" : "big",
+      "entry_time" : "11:15",
+      "stay_time" : 120
+    },
+    {
+      "id" : 8,
+      "type" : "medium",
+      "entry_time" : "11:16",
+      "stay_time" : 120
+    }
+  ],
+  "check_times": [ "9:15", "11:45" ]
+}
